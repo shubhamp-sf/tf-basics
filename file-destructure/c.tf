@@ -1,0 +1,3 @@
+output "c" {
+  value = "cat"
+}
